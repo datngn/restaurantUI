@@ -12,7 +12,7 @@ const LoginPage = () => {
           <Image src="/loginBg.png" alt="" fill className="object-cover"/>
         </div>
         {/* FORM CONTAINER */}
-        <div className="p-10 flex flex-col gap-8 md:w-1/2">
+        <div className="p-10 flex flex-col gap-4 md:w-1/2">
           <h1 className="font-bold text-xl xl:text-3xl">Welcome</h1>
           <p>Log into your account or create a new one using social buttons</p>
           <button className="flex gap-4 p-4 ring-1 ring-orange-100 rounded-md">
